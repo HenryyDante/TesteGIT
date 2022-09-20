@@ -39,20 +39,3 @@ body {
    line-height: 42px;
    margin: 0;
 }
-
-.main .d-flex {
-   display: flex;
-}
-
-.main .d-flex .piece {
-   margin: 15px;
-   padding:15px;
-   border-radius: 5px;
-   background-color: gray;
-   color: white;
-} 
-
-
-.main form{
-   color: black;
-}
