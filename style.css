@@ -30,7 +30,7 @@ body {
    position: absolute;
    bottom: 0;
    background-color: orange;
-   color: #ffff;
+   color: rgb(143, 101, 101);
 }
 
 .footer p {
