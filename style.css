@@ -3,7 +3,6 @@ body {
    margin: 0;
    min-height: 100vh;
    position: relative;
-
 }
 
 .header h1{
@@ -38,5 +37,5 @@ body {
    height: 42px;
    font-size: medium;
    line-height: 42px;
-   margin: 30;
+   margin: 0;
 }
